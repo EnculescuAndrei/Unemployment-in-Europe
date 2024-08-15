@@ -48,6 +48,16 @@ Alcohol dependency – pure alcohol consumption among persons of age 15+ in lite
 
 **STRATIFIED RANDOM SAMPLING** 
 
+![Screenshot 2024-08-15 205505](https://github.com/user-attachments/assets/706fbbda-60f7-41af-b46e-7883a93d4a37)
+
+In the first part of our project, we are going to choose 4 strata, those being the cardinal points where the countries are situated, N W S E, from the population size of 27 countries. Percentually, our subjects are distributed as following, East 22%, North 27%, South 29% and West 22%. We chose 3 samples of 12 countries each, after that we randomly selected the countries using the function “RAND”. 
+
+For the first part of the test, we took the samples with a confidence interval of 95%. As you can see in the first sample our alpha is 0.05, we have sum of squares within groups of 1.255, measuring the deviation of data point from the mean value. Our z is 1.96. The margin of error is 2.46. We can conclude that the results were computed to be accurate to within 2 percentage points 95% of the time. We have an overall sample mean of 3.88. We computed the confidence interval with the lower limit of 1.42 and the upper limit of 6.34. About 95% of observations from the entire population has the mean between lower limit and upper limit, [1.42-6.34]. 
+
+Moving on to the second sample, we chose the same confidence interval, and our results are quite similar. Alpha of 0.05, sum of squares within groups is 1.11, our z will be 1.96. margin of error of 2.18. Overall sample mean of 4. Lower limit of 1.87, upper limit of 6.24. 
+
+Since we have a relatively small population size of 27 countries, the sample of 13 countries captures most of the population, that’s why the first and the second sample are quite similar. 
+
 
 
 References:

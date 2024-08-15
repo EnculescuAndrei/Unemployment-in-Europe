@@ -58,6 +58,13 @@ Moving on to the second sample, we chose the same confidence interval, and our r
 
 Since we have a relatively small population size of 27 countries, the sample of 13 countries captures most of the population, that’s why the first and the second sample are quite similar. 
 
+![Screenshot 2024-08-15 205623](https://github.com/user-attachments/assets/0be5b2ab-8b7f-4505-8be4-a637889b160e)
+
+Moving on to the third sample we have a more distinct case. Once again, we took our confidence interval to be 95%, our alpha 0.05, our z, 1.96, sum of squares between groups 0.49, margin of error 0.97, and overall sample mean of 5.13. We have a really small margin of error and we want to see why that happened. As we all know the margin of error is computed using the sum of squares between groups. Since in the south region we have only 2 countries that have really similar unemployment rates. The variance in that group is 0.005, as well as in the west region, having the variance of 0.13. This concludes a really close lower number limit, our lower limit being 4.16, and upper limit being 6.11. 
+
+Moving on we’ll raise our alpha to 0.1, having a confidence interval of 90% and a z of 1.645. 
+
+
 
 
 References:
